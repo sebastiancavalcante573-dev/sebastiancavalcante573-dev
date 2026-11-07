@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**sebastiancavalcante573-dev/sebastiancavalcante573-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, my name is Sebastian 👽
+I hold a degree in Systems Analysis from Unicesumar University.
+I am a .NET back-end developer.
+I enjoy sharing my knowledge on social media as a way to further my own learning.
+I like playing games and talking about professional and personal growth.
 
-Here are some ideas to get you started:
+## Certifications 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me ⚡
+
+    TikTok
+    Youtube
+    Facebook
+    Instagram
+
+## Current Project 🔥
+
+## Last Projects 💧
+
+## Free Basic Courses 💻
+
+    Git and GitHub 
+    Programming Logic 
+    C# and .NET
+    Software Architecture
